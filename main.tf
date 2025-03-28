@@ -1,6 +1,6 @@
 # Fournisseur AWS
 provider "aws" {
-  region = "eu-west-3"  # Région Paris
+  region = "eu-west-1" 
 }
 
 # Création du VPC
